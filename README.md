@@ -1,4 +1,4 @@
-# WEEK_3_Assignment
+# MULTIPLE BALL BOUNCE
 The project name multiple ball bounce
 The project was creates to move multible ball in a particular div
 I have used external css for creating this project
